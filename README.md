@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Seajal Singh Verma
 
-<!--
-**Seajal-S/Seajal-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about Data Analytics • Machine Learning • Visualizations • MERN Stack Development
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Tableau Social Media Engagement Prediction Project
+- Bank Customer Loan Approval Prediction in R
+- Sales Forecasting App using Python
+- Building full-stack apps using MERN stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced SQL Query Optimization
+- Machine Learning Algorithms
+- Power BI dashboards
+- Big Data (HDFS, Hive, HBase)
+- Scalable MERN architectures & microservices
+
+## 💡 Ask Me About
+- Data Cleaning and Visualization
+- Python, R, Excel, Tableau
+- Machine Learning Models
+- Full-Stack Development (MongoDB, Express.js, React.js, Node.js)
+- Analytics Projects
+
+## 📫 How to Reach Me
+- LinkedIn: https://www.linkedin.com/in/seajal-singh05/
+- Email: singhseajal5@gmail.com
+
+## ⚡ Fun Fact
+I turn messy datasets into meaningful insights ✨
